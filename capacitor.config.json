@@ -1,0 +1,9 @@
+{
+  "appId": "com.inconnustudio.check",
+  "appName": "BIG LOVE",
+  "webDir": "inconnuboy",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
